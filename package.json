@@ -1,0 +1,25 @@
+{
+  "name": "qa-playwright-project",
+  "version": "1.0.0",
+  "description": "playwright project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamzaNaser05/qa-playwright-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamzaNaser05/qa-playwright-project/issues"
+  },
+  "homepage": "https://github.com/HamzaNaser05/qa-playwright-project#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
